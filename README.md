@@ -2,7 +2,7 @@
 
 Software Engineer at **Mercado Libre** based in Córdoba, Argentina.
 
-I write about Python, web development, and security at [emimartin.me](https://emimartin.me).
+DevOps enthusiast. I write about Python and web development at [emimartin.me](https://emimartin.me).
 
 ---
 
